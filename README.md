@@ -1,2 +1,1 @@
-# Number-Dictionary
-i created this just for fun lol currently in v1 and need to open devtools to view the page.
+Open the page at https://wenzel1019.github.io/numberdictionary/index.html not https://wenzel1019.github.io/numberdictionary
